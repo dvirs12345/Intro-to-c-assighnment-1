@@ -1,4 +1,4 @@
-// Author: Dvir Sadon
+// Author: Dvir Sadon and Noa Elram
 #include <stdio.h>
 float add(float x , float y)
 {

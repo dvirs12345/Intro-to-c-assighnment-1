@@ -1,10 +1,10 @@
-// Author: Dvir Sadon
+// Author: Dvir Sadon and Noa Elram
 #include <stdio.h>
-double exp(int x)
+double Exp(int x)
 {
-	
+	return pow(EXP,x);
 }
-double pow(double x, int y)
+double Pow(double x, int y)
 {
 	int i = 0;
 	double result =1;
